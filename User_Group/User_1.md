@@ -13,6 +13,6 @@ id
 cat /ect/group
 ```
 ### There are three type of user
-1. Admin
+1. Admin / Supper    ...     UID =0 AND GID = 0
 2. Non Admin
 3. System user
